@@ -13,3 +13,7 @@ Project setup:
 3. create environment (conda create -n signenv python=3.7 -y)
 4. install requirements
 5. Building all the components
+
+conda activate in bash shell
+- eval "$(conda shell.bash hook)"
+- conda activate <env-name>
